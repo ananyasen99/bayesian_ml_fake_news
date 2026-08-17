@@ -7,6 +7,8 @@ pyramid has changed in the attention economy.
 **Central question:** Do articles that use more attention-grabbing language actually get
 more engagement, and are they more likely to be misinformation?
 
+![AttentionLens dashboard — the same headline scored in original, de-sensationalized, and sensationalized form](dashboard.png)
+
 **Headline finding:** Misinformation has a distinctive stylistic signature — more
 interrogative, negative, capitalized, and sensational — but of those markers only
 negativity (and, marginally, sensational vocabulary) is *causally* rewarded with clicks
