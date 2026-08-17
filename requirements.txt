@@ -1,0 +1,11 @@
+pandas
+pyarrow
+pymc
+arviz
+vaderSentiment
+scikit-learn
+joblib
+h5py
+h5netcdf
+streamlit
+anthropic
